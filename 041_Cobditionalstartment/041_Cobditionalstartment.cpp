@@ -17,6 +17,7 @@ int main()
 	if (rerata >= 60 || Matematika > 70) {
 		status = "Lulus";
 	}
+
 	else {
 		status = "Tidak lulus";
 	}
